@@ -1,0 +1,8 @@
+{
+  "label": "💪 Optimisation de prompt",
+  "position": 70,
+  "link": {
+    "type": "generated-index",
+    "description": "Ingénierie de prompt que vous pouvez affiner avec des gradients"
+  }
+}
